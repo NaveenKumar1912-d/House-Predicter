@@ -3,7 +3,7 @@
  * Connects to Flask API at http://localhost:5000
  */
 
-const API_URL = 'http://localhost:5000/predict';
+const API_URL = '/api/predict';
 
 // DOM Elements
 const predictionForm = document.getElementById('predictionForm');
